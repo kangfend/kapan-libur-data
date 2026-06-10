@@ -2,49 +2,183 @@
   "version": "2026.1",
   "year": 2026,
   "country": "ID",
-  "last_updated": "2026-06-10 16:44:29",
-  "source": "SKB Pemerintah RI",
+  "last_updated": "2026-06-10",
+  "source": "SKB Menteri Agama, Menaker, dan Menteri PAN-RB No. 1497/2/5 Tahun 2025",
   "items": [
     {
-      "id": "2026-01-01-tahun-baru",
+      "id": "2026-01-01-tahun-baru-masehi",
       "date": "2026-01-01",
       "title": "Tahun Baru Masehi",
       "type": "national_holiday",
-      "is_day_off": true,
-      "description": "Libur nasional"
+      "is_day_off": true
+    },
+    {
+      "id": "2026-01-16-isra-mikraj",
+      "date": "2026-01-16",
+      "title": "Isra Mikraj Nabi Muhammad SAW",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-02-16-cuti-imlek",
+      "date": "2026-02-16",
+      "title": "Cuti Bersama Tahun Baru Imlek",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-02-17-imlek",
+      "date": "2026-02-17",
+      "title": "Tahun Baru Imlek 2577 Kongzili",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-18-cuti-nyepi",
+      "date": "2026-03-18",
+      "title": "Cuti Bersama Hari Suci Nyepi",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-19-nyepi",
+      "date": "2026-03-19",
+      "title": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-20-cuti-idul-fitri-1",
+      "date": "2026-03-20",
+      "title": "Cuti Bersama Hari Raya Idulfitri",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-21-idul-fitri-1",
+      "date": "2026-03-21",
+      "title": "Hari Raya Idulfitri 1447 H",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-22-idul-fitri-2",
+      "date": "2026-03-22",
+      "title": "Hari Raya Idulfitri 1447 H (Hari Kedua)",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-23-cuti-idul-fitri-2",
+      "date": "2026-03-23",
+      "title": "Cuti Bersama Hari Raya Idulfitri",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-03-24-cuti-idul-fitri-3",
+      "date": "2026-03-24",
+      "title": "Cuti Bersama Hari Raya Idulfitri",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-04-03-wafat-yesus",
+      "date": "2026-04-03",
+      "title": "Wafat Yesus Kristus",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-04-05-paskah",
+      "date": "2026-04-05",
+      "title": "Hari Raya Paskah",
+      "type": "national_holiday",
+      "is_day_off": true
     },
     {
       "id": "2026-05-01-hari-buruh",
       "date": "2026-05-01",
       "title": "Hari Buruh Internasional",
       "type": "national_holiday",
-      "is_day_off": true,
-      "description": "Libur nasional"
+      "is_day_off": true
+    },
+    {
+      "id": "2026-05-14-kenaikan-yesus",
+      "date": "2026-05-14",
+      "title": "Kenaikan Yesus Kristus",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-05-15-cuti-kenaikan-yesus",
+      "date": "2026-05-15",
+      "title": "Cuti Bersama Kenaikan Yesus Kristus",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-05-27-idul-adha",
+      "date": "2026-05-27",
+      "title": "Hari Raya Iduladha 1447 H",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-05-28-cuti-idul-adha",
+      "date": "2026-05-28",
+      "title": "Cuti Bersama Hari Raya Iduladha",
+      "type": "joint_leave",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-05-31-waisak",
+      "date": "2026-05-31",
+      "title": "Hari Raya Waisak 2570 BE",
+      "type": "national_holiday",
+      "is_day_off": true
     },
     {
       "id": "2026-06-01-pancasila",
       "date": "2026-06-01",
       "title": "Hari Lahir Pancasila",
       "type": "national_holiday",
-      "is_day_off": true,
-      "description": "Libur nasional"
+      "is_day_off": true
+    },
+    {
+      "id": "2026-06-16-tahun-baru-islam",
+      "date": "2026-06-16",
+      "title": "Tahun Baru Islam 1 Muharam 1448 H",
+      "type": "national_holiday",
+      "is_day_off": true
     },
     {
       "id": "2026-08-17-kemerdekaan",
       "date": "2026-08-17",
-      "title": "Hari Kemerdekaan Republik Indonesia",
+      "title": "Hari Proklamasi Kemerdekaan RI",
       "type": "national_holiday",
-      "is_day_off": true,
-      "description": "Libur nasional"
+      "is_day_off": true
+    },
+    {
+      "id": "2026-08-25-maulid-nabi",
+      "date": "2026-08-25",
+      "title": "Maulid Nabi Muhammad SAW",
+      "type": "national_holiday",
+      "is_day_off": true
+    },
+    {
+      "id": "2026-12-24-cuti-natal",
+      "date": "2026-12-24",
+      "title": "Cuti Bersama Hari Raya Natal",
+      "type": "joint_leave",
+      "is_day_off": true
     },
     {
       "id": "2026-12-25-natal",
       "date": "2026-12-25",
       "title": "Hari Raya Natal",
       "type": "national_holiday",
-      "is_day_off": true,
-      "description": "Libur nasional"
+      "is_day_off": true
     }
   ]
 }
-
