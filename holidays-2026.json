@@ -1,0 +1,49 @@
+{
+  "version": "2026.0-sample",
+  "year": 2026,
+  "country": "ID",
+  "last_updated": "2026-06-10",
+  "source": "Data contoh. Ganti dengan data resmi SKB Pemerintah RI sebelum publish.",
+  "items": [
+    {
+      "id": "2026-01-01-tahun-baru",
+      "date": "2026-01-01",
+      "title": "Tahun Baru Masehi",
+      "type": "national_holiday",
+      "is_day_off": true,
+      "description": "Libur nasional"
+    },
+    {
+      "id": "2026-05-01-hari-buruh",
+      "date": "2026-05-01",
+      "title": "Hari Buruh Internasional",
+      "type": "national_holiday",
+      "is_day_off": true,
+      "description": "Libur nasional"
+    },
+    {
+      "id": "2026-06-01-pancasila",
+      "date": "2026-06-01",
+      "title": "Hari Lahir Pancasila",
+      "type": "national_holiday",
+      "is_day_off": true,
+      "description": "Libur nasional"
+    },
+    {
+      "id": "2026-08-17-kemerdekaan",
+      "date": "2026-08-17",
+      "title": "Hari Kemerdekaan Republik Indonesia",
+      "type": "national_holiday",
+      "is_day_off": true,
+      "description": "Libur nasional"
+    },
+    {
+      "id": "2026-12-25-natal",
+      "date": "2026-12-25",
+      "title": "Hari Raya Natal",
+      "type": "national_holiday",
+      "is_day_off": true,
+      "description": "Libur nasional"
+    }
+  ]
+}
